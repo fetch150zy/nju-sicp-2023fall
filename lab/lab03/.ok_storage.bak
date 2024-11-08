@@ -1,0 +1,6 @@
+'f91-correct', (0, 66)
+'summation-correct', (512, 66)
+'count_stair_ways-correct', (1024, 66)
+'count_k-correct', (1536, 66)
+'paths-correct', (2048, 66)
+'max_subseq-correct', (2560, 66)
